@@ -1,2 +1,2 @@
-# BIManalyst group xy
+# BIManalyst group TESTNUMBER
 
